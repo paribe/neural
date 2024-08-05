@@ -12,6 +12,7 @@ keras = "^3.4.1"
 keras-models = "^0.0.7"
 numpy = "<2"
 matplotlib = "^3.9.0"
+streamlit = "^1.37.0"
 
 
 [build-system]
